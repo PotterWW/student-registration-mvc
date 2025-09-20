@@ -1,0 +1,10 @@
+# requirements.txt
+# Python Standard Library modules used:
+# - tkinter (GUI framework - included with Python)
+# - sqlite3 (Database - included with Python)
+# - datetime (Date/time handling - included with Python)
+# - typing (Type hints - included with Python)
+# - os (Operating system interface - included with Python)
+
+# No external dependencies required for this project.
+# All required modules are part of Python's standard library.
